@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0bd79c4e-c5d1-42b4-a33e-2a5630389064/deploy-status)](https://app.netlify.com/sites/denver-devs/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f9e49ace-ffdd-459c-a4ac-75c99d8e0741/deploy-status)](https://app.netlify.com/sites/cranky-clarke-fdf917/deploys)
 
 # Zwift Community Slack Website - zwift-community-slack.netlify.app
 
